@@ -1,3 +1,3 @@
 # formac
 
-just for mac test
+just for mac tests
